@@ -52,28 +52,28 @@ export const skillData = [
 export const projectData = [
   { id:1,
     title: "iPhone 15 Pro Website Clone",
-    img: "/images/iphone.png",
+    img: "./images/iphone.png",
     desc: "A high-quality clone of the iPhone 15 Pro website featuring immersive 3D models and smooth, scroll-based animations. Built with modern frontend technologies to deliver a premium and interactive user experience similar to Apple's official site.",
     skills: ["React", "Tailwind", "GSAP", "Three.js"],
     link: "https://github.com/RehanAliakbar/I-Phone-clone"
   },
   { id:2,
     title: "World Atlas",
-    img: "/images/world.png",
+    img: "./images/world.png",
     desc: "A dynamic web application that provides detailed information about countries worldwide. Data is fetched in real-time using APIs, allowing users to explore country details efficiently with a clean and responsive interface.",
     skills: ["React", "API", "Axios"],
     link: "https://github.com/RehanAliakbar/world-Atlas"
   },
   { id:3,
     title: "Zentry Website Clone",
-    img: "/images/zentry.png",
+    img: "./images/zentry.png",
     desc: "A visually engaging clone of the Zentry website featuring advanced animations and smooth transitions. Focused on recreating modern UI/UX patterns with interactive elements and polished design.",
     skills: ["React", "Tailwind", "GSAP"],
     link: "https://github.com/RehanAliakbar/Zentry-clone"
   },
   { id:4,
     title: "Personal Portfolio",
-    img: "/images/portfolio.png",
+    img: "./images/portfolio.png",
     desc: "A modern personal portfolio website showcasing frontend development skills with smooth animations and responsive design. Built to highlight projects, skills, and overall development capabilities.",
     skills: ["HTML", "CSS", "JavaScript", "GSAP"],
     link: "https://github.com/RehanAliakbar/portfolio"
